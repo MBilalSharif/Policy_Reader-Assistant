@@ -1,10 +1,10 @@
-📄 Document Assistant – RAG-Based PDF Question Answering System
+# 📄 Document Assistant – RAG-Based PDF Question Answering System
 
 An intelligent Retrieval-Augmented Generation (RAG) system that reads PDF documents and answers user queries based on their content.
 
 This project allows users to upload a PDF and ask natural language questions. The system retrieves the most relevant sections from the document and generates accurate answers using an LLM.
 
-🚀 Features
+# 🚀 Features
 
 📥 Upload and process PDF documents
 
@@ -32,7 +32,7 @@ Retriever – Finds top-K relevant chunks
 
 LLM – Generates answer using retrieved context
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
@@ -46,7 +46,7 @@ Streamlit
 
 
 
-⚙️ Installation
+# ⚙️ Installation
 1️⃣ Clone the Repository
 git clone https://github.com/MBilalSharif/Policy_Reader-Assistant.git
 cd Policy_Reader-Assistant
@@ -100,7 +100,7 @@ Company internal knowledge base
 
 Educational document chatbot
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Muhammad Bilal Sharif
 AI/ML Enthusiast | RAG & Generative AI Developer
